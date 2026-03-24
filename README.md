@@ -189,14 +189,14 @@ No. Siguiente pregunta.
 
 ## Changelog
 
-### v3.1 — *"Hardened Edition"*
+### v1.0 — *"Hardened Edition"*
 - ✅ Validación de `timeout` antes de interpolarlo en código Go (era un bug, ahora no)
 - ✅ Verificación de `sudo` al inicio, no cuando ya es tarde
 - ✅ Limpieza automática de temporales en caso de fallo
 - ✅ `$FLAG` con comillas en el wrapper (pequeño, importante, ignorado hasta hoy)
 - ✅ Comentarios sarcásticos intactos — algunos bugs se corrigen, el tono no
 
-### v3.0 — *"Pro Edition"*
+### v0.9 — *"Pro Edition"*
 - Versión inicial. Funcionaba. Más o menos.
 
 ---
