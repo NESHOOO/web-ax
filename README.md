@@ -1,4 +1,4 @@
-# WEB-AX v3.1
+# WEB-AX v1.0
 ### *"Porque claramente el sistema no se va a romper solo"*
 
 > Un escáner web minimalista, funcional, y escrito con el nivel exacto de entusiasmo que merece un lunes por la mañana.
